@@ -1,0 +1,3145 @@
+{
+  "generated_at": "2026-07-04T16:17:17.205987Z",
+  "source": "Numista",
+  "runs": [
+    {
+      "source": "Numista",
+      "collected": [
+        {
+          "kind": "coin",
+          "name": "1角",
+          "value": 0.1,
+          "url": "https://en.numista.com/178135",
+          "source": "https://en.numista.com/178135",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "1 Jiao - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/3813-360.jpg"
+              },
+              {
+                "alt": "1 Jiao - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/3814-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "178135",
+            "pageTitle": "1 Jiao - People's Republic of China – Numista",
+            "type": "Standard circulation coins",
+            "value": "1 Jiao (壹角)",
+            "years": "2019-2025"
+          },
+          "front_view_image": "China/coin/1角/front.jpg",
+          "back_view_image": "China/coin/1角/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/3813-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/3814-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "5角",
+          "value": 0.5,
+          "url": "https://en.numista.com/178137",
+          "source": "https://en.numista.com/178137",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "5 Jiao - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/6a3cc316ee8091.51528101-360.jpg"
+              },
+              {
+                "alt": "5 Jiao - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/6a3cc3178ec9e8.05409453-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "178137",
+            "pageTitle": "5 Jiao - People's Republic of China – Numista",
+            "type": "Standard circulation coins",
+            "value": "5 Jiao (伍角)",
+            "years": "2019-2025"
+          },
+          "front_view_image": "China/coin/5角/front.jpg",
+          "back_view_image": "China/coin/5角/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/6a3cc316ee8091.51528101-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/6a3cc3178ec9e8.05409453-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "1元",
+          "value": 1,
+          "url": "https://en.numista.com/178139",
+          "source": "https://en.numista.com/178139",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "1 Yuan - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/3811-360.jpg"
+              },
+              {
+                "alt": "1 Yuan - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/3812-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "178139",
+            "pageTitle": "1 Yuan - People's Republic of China – Numista",
+            "type": "Standard circulation coins",
+            "value": "1 Yuan (1元, 壹圓)",
+            "years": "2019-2020"
+          },
+          "front_view_image": "China/coin/1元/front.jpg",
+          "back_view_image": "China/coin/1元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/3811-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/3812-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "1元",
+          "value": 1,
+          "url": "https://en.numista.com/220873",
+          "source": "https://en.numista.com/220873",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "1 Yuan (enhanced security) - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/5ede400ebef881.51111026-360.jpg"
+              },
+              {
+                "alt": "1 Yuan (enhanced security) - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/5ede400fc20b86.14884131-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "220873",
+            "pageTitle": "1 Yuan (enhanced security) - People's Republic of China – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "1 Yuan (1元, 壹圓)",
+            "years": "2019"
+          },
+          "front_view_image": "China/banknote/1元/front.jpg",
+          "back_view_image": "China/banknote/1元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/5ede400ebef881.51111026-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/5ede400fc20b86.14884131-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "5元",
+          "value": 5,
+          "url": "https://en.numista.com/243357",
+          "source": "https://en.numista.com/243357",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "5 Yuan (enhanced security) - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/6555775363b502.03855347-360.jpg"
+              },
+              {
+                "alt": "5 Yuan (enhanced security) - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/65557753d7b448.03030965-360.jpg"
+              },
+              {
+                "alt": "5 Yuan (enhanced security) -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/629831a4c33580.21450152-360.jpg"
+              }
+            ],
+            "issued": "5 November 2020",
+            "issuer": "People's Republic of China",
+            "number": "243357",
+            "pageTitle": "5 Yuan (enhanced security) - People's Republic of China – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "5 Yuan (5元, 伍圓)",
+            "years": "2020"
+          },
+          "front_view_image": "China/banknote/5元/front.jpg",
+          "back_view_image": "China/banknote/5元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/6555775363b502.03855347-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/65557753d7b448.03030965-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "10元",
+          "value": 10,
+          "url": "https://en.numista.com/208341",
+          "source": "https://en.numista.com/208341",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "10 Yuan (enhanced security) - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/6681a38461baa8.71925185-360.jpg"
+              },
+              {
+                "alt": "10 Yuan (enhanced security) - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/672e422d807ea7.62462358-360.jpg"
+              },
+              {
+                "alt": "10 Yuan (enhanced security) -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/6629aff7c65481.70279150-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "208341",
+            "pageTitle": "10 Yuan (enhanced security) - People's Republic of China – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "10 Yuan (10元, 拾圓)",
+            "years": "2019"
+          },
+          "front_view_image": "China/banknote/10元/front.jpg",
+          "back_view_image": "China/banknote/10元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/6681a38461baa8.71925185-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/672e422d807ea7.62462358-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "20元",
+          "value": 20,
+          "url": "https://en.numista.com/220875",
+          "source": "https://en.numista.com/220875",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "20 Yuan (enhanced security) - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/63df74ce234a41.74320214-360.jpg"
+              },
+              {
+                "alt": "20 Yuan (enhanced security) - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/63df74d0264699.06079628-360.jpg"
+              },
+              {
+                "alt": "20 Yuan (enhanced security) -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/64f67fe4a42352.69919354-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "220875",
+            "pageTitle": "20 Yuan (enhanced security) - People's Republic of China – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "20 Yuan (20元, 贰拾圆)",
+            "years": "2019"
+          },
+          "front_view_image": "China/banknote/20元/front.jpg",
+          "back_view_image": "China/banknote/20元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/63df74ce234a41.74320214-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/63df74d0264699.06079628-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "50元",
+          "value": 50,
+          "url": "https://en.numista.com/223863",
+          "source": "https://en.numista.com/223863",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "50 Yuan (enhanced security) - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/5ef5d735a21884.04971230-360.jpg"
+              },
+              {
+                "alt": "50 Yuan (enhanced security) - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/5ef5d735edcca6.81749254-360.jpg"
+              },
+              {
+                "alt": "50 Yuan (enhanced security) -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/662b2de6d495b6.36620404-360.jpg"
+              }
+            ],
+            "issued": "30 August 2019",
+            "issuer": "People's Republic of China",
+            "number": "223863",
+            "pageTitle": "50 Yuan (enhanced security) - People's Republic of China – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "50 Yuan (50元, 伍拾圆)",
+            "years": "2019"
+          },
+          "front_view_image": "China/banknote/50元/front.jpg",
+          "back_view_image": "China/banknote/50元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/5ef5d735a21884.04971230-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/5ef5d735edcca6.81749254-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "100元",
+          "value": 100,
+          "url": "https://en.numista.com/205868",
+          "source": "https://en.numista.com/205868",
+          "metadata": {
+            "currency": "Rénmínbì (1955-date)",
+            "images": [
+              {
+                "alt": "100 Yuan (enhanced security) - obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/63bda6941b8729.39160559-360.jpg"
+              },
+              {
+                "alt": "100 Yuan (enhanced security) - reverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/63bda6956149b8.66960143-360.jpg"
+              },
+              {
+                "alt": "100 Yuan (enhanced security) -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/chine/62af274cb456b4.87855112-360.jpg"
+              }
+            ],
+            "issued": "12 November 2015",
+            "issuer": "People's Republic of China",
+            "number": "205868",
+            "pageTitle": "100 Yuan (enhanced security) - People's Republic of China – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "100 Yuan (100元, 壹佰圆)",
+            "years": "2015"
+          },
+          "front_view_image": "China/banknote/100元/front.jpg",
+          "back_view_image": "China/banknote/100元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/chine/63bda6941b8729.39160559-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/chine/63bda6956149b8.66960143-360.jpg"
+          }
+        }
+      ],
+      "skipped": [],
+      "collection_rule": "obverse/reverse image alt text, prefer 360px observed asset"
+    },
+    {
+      "country": "Japan",
+      "source": "Numista",
+      "collection_rule": "obverse/reverse image alt text, prefer 360px observed asset",
+      "collected": [
+        {
+          "kind": "coin",
+          "name": "1日元",
+          "value": 1,
+          "url": "https://en.numista.com/182978",
+          "source": "https://en.numista.com/182978",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "1 Yen - Reiwa - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639531e0c74f73.76890922-360.jpg"
+              },
+              {
+                "alt": "1 Yen - Reiwa - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639531e164db35.74173580-360.jpg"
+              }
+            ],
+            "issuer": "Japan",
+            "number": "182978",
+            "pageTitle": "1 Yen - Reiwa - Japan – Numista",
+            "type": "Non-circulating coins",
+            "value": "1 Yen",
+            "years": "1-8 (2019-2026)"
+          },
+          "front_view_image": "Japan/coin/1日元/front.jpg",
+          "back_view_image": "Japan/coin/1日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/639531e0c74f73.76890922-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/639531e164db35.74173580-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "5日元",
+          "value": 5,
+          "url": "https://en.numista.com/182977",
+          "source": "https://en.numista.com/182977",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "5 Yen - Reiwa - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/63953262b482e6.79257338-360.jpg"
+              },
+              {
+                "alt": "5 Yen - Reiwa - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639532632ffa59.59230787-360.jpg"
+              }
+            ],
+            "issuer": "Japan",
+            "number": "182977",
+            "pageTitle": "5 Yen - Reiwa - Japan – Numista",
+            "type": "Standard circulation coins",
+            "value": "5 Yen",
+            "years": "1-8 (2019-2026)"
+          },
+          "front_view_image": "Japan/coin/5日元/front.jpg",
+          "back_view_image": "Japan/coin/5日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/63953262b482e6.79257338-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/639532632ffa59.59230787-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "10日元",
+          "value": 10,
+          "url": "https://en.numista.com/182976",
+          "source": "https://en.numista.com/182976",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "10 Yen - Reiwa - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639532cc159f46.92247992-360.jpg"
+              },
+              {
+                "alt": "10 Yen - Reiwa - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639532cca565b8.00444569-360.jpg"
+              },
+              {
+                "alt": "10 Yen - Reiwa -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/68c215e2290d94.85312101-360.jpg"
+              }
+            ],
+            "issuer": "Japan",
+            "number": "182976",
+            "pageTitle": "10 Yen - Reiwa - Japan – Numista",
+            "type": "Standard circulation coins",
+            "value": "10 Yen",
+            "years": "1-8 (2019-2026)"
+          },
+          "front_view_image": "Japan/coin/10日元/front.jpg",
+          "back_view_image": "Japan/coin/10日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/639532cc159f46.92247992-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/639532cca565b8.00444569-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "50日元",
+          "value": 50,
+          "url": "https://en.numista.com/182975",
+          "source": "https://en.numista.com/182975",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "50 Yen - Reiwa - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639534cf28a517.28766785-360.jpg"
+              },
+              {
+                "alt": "50 Yen - Reiwa - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639534cfaf0524.59766514-360.jpg"
+              }
+            ],
+            "issuer": "Japan",
+            "number": "182975",
+            "pageTitle": "50 Yen - Reiwa - Japan – Numista",
+            "type": "Standard circulation coins",
+            "value": "50 Yen",
+            "years": "1-8 (2019-2026)"
+          },
+          "front_view_image": "Japan/coin/50日元/front.jpg",
+          "back_view_image": "Japan/coin/50日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/639534cf28a517.28766785-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/639534cfaf0524.59766514-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "100日元",
+          "value": 100,
+          "url": "https://en.numista.com/173796",
+          "source": "https://en.numista.com/173796",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "100 Yen - Reiwa - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639534f4e039f4.37504576-360.jpg"
+              },
+              {
+                "alt": "100 Yen - Reiwa - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/639534f55d9a82.25383899-360.jpg"
+              },
+              {
+                "alt": "100 Yen - Reiwa -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/68c21878176386.35659061-360.jpg"
+              }
+            ],
+            "issuer": "Japan",
+            "number": "173796",
+            "pageTitle": "100 Yen - Reiwa - Japan – Numista",
+            "type": "Standard circulation coins",
+            "value": "100 Yen",
+            "years": "1-8 (2019-2026)"
+          },
+          "front_view_image": "Japan/coin/100日元/front.jpg",
+          "back_view_image": "Japan/coin/100日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/639534f4e039f4.37504576-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/639534f55d9a82.25383899-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "500日元",
+          "value": 500,
+          "url": "https://en.numista.com/283986",
+          "source": "https://en.numista.com/283986",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "500 Yen - Reiwa - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/632542805c3998.32053104-360.jpg"
+              },
+              {
+                "alt": "500 Yen - Reiwa - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/63254281812e34.76214777-360.jpg"
+              },
+              {
+                "alt": "500 Yen - Reiwa -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/6185f6ffe1a6c3.94429088-360.jpg"
+              }
+            ],
+            "issued": "1 November 2021",
+            "issuer": "Japan",
+            "number": "283986",
+            "pageTitle": "500 Yen - Reiwa - Japan – Numista",
+            "type": "Standard circulation coins",
+            "value": "500 Yen",
+            "years": "3-8 (2021-2026)"
+          },
+          "front_view_image": "Japan/coin/500日元/front.jpg",
+          "back_view_image": "Japan/coin/500日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/632542805c3998.32053104-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/63254281812e34.76214777-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "1000日元",
+          "value": 1000,
+          "url": "https://en.numista.com/385520",
+          "source": "https://en.numista.com/385520",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "1000 Yen - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/66855b7c83e347.23203622-360.jpg"
+              },
+              {
+                "alt": "1000 Yen - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/66855b7d242ea2.93980853-360.jpg"
+              },
+              {
+                "alt": "1000 Yen -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/6826bf92b18a28.58160387-360.jpg"
+              }
+            ],
+            "issued": "3 July 2024",
+            "issuer": "Japan",
+            "number": "385520",
+            "pageTitle": "1000 Yen - Japan – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "1000 Yen",
+            "years": "2024"
+          },
+          "front_view_image": "Japan/banknote/1000日元/front.jpg",
+          "back_view_image": "Japan/banknote/1000日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/66855b7c83e347.23203622-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/66855b7d242ea2.93980853-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "2000日元",
+          "value": 2000,
+          "url": "https://en.numista.com/203032",
+          "source": "https://en.numista.com/203032",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "2000 Yen - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/62f934a690b6d7.98772881-360.jpg"
+              },
+              {
+                "alt": "2000 Yen - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/62f934a70d1ad6.29655684-360.jpg"
+              },
+              {
+                "alt": "2000 Yen -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/5eaee2467e4d07.09067667-360.jpg"
+              }
+            ],
+            "issued": "19 July 2000",
+            "issuer": "Japan",
+            "number": "203032",
+            "pageTitle": "2000 Yen - Japan – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "2000 Yen",
+            "years": "2000"
+          },
+          "front_view_image": "Japan/banknote/2000日元/front.jpg",
+          "back_view_image": "Japan/banknote/2000日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/62f934a690b6d7.98772881-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/62f934a70d1ad6.29655684-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "5000日元",
+          "value": 5000,
+          "url": "https://en.numista.com/385523",
+          "source": "https://en.numista.com/385523",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "5000 Yen - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/668558eac4fb99.31585124-180.jpg"
+              },
+              {
+                "alt": "5000 Yen - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/668558eb61d2d4.95214999-360.jpg"
+              },
+              {
+                "alt": "5000 Yen -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/66aa5abb065820.29170782-180.jpg"
+              }
+            ],
+            "issued": "3 July 2024",
+            "issuer": "Japan",
+            "number": "385523",
+            "pageTitle": "5000 Yen - Japan – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "5000 Yen",
+            "years": "2024"
+          },
+          "front_view_image": "Japan/banknote/5000日元/front.jpg",
+          "back_view_image": "Japan/banknote/5000日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/668558eac4fb99.31585124-100.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/668558eb61d2d4.95214999-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "10000日元",
+          "value": 10000,
+          "url": "https://en.numista.com/385524",
+          "source": "https://en.numista.com/385524",
+          "metadata": {
+            "currency": "Yen (1871-date)",
+            "images": [
+              {
+                "alt": "10 000 Yen - obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/6685591fe09969.79220912-360.jpg"
+              },
+              {
+                "alt": "10 000 Yen - reverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/66855920a5f468.35452708-360.jpg"
+              },
+              {
+                "alt": "10 000 Yen -  obverse",
+                "src": "https://en.numista.com/catalogue/photos/japon/681fed3c84e3f4.86424051-360.jpg"
+              }
+            ],
+            "issued": "3 July 2024",
+            "issuer": "Japan",
+            "number": "385524",
+            "pageTitle": "10 000 Yen - Japan – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "10 000 Yen",
+            "years": "2024"
+          },
+          "front_view_image": "Japan/banknote/10000日元/front.jpg",
+          "back_view_image": "Japan/banknote/10000日元/back.jpg",
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/japon/6685591fe09969.79220912-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/japon/66855920a5f468.35452708-360.jpg"
+          }
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "country": "Australia",
+      "source": "Numista",
+      "collection_rule": "obverse/reverse image alt text; original.jpg links downloaded through browser media export",
+      "collected": [
+        {
+          "kind": "coin",
+          "name": "5澳分",
+          "value": 0.05,
+          "url": "https://en.numista.com/410263",
+          "source": "https://en.numista.com/410263",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "5 Cents - Charles III (1st Portrait) - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/6652b5f07e7542.29826377-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/6652b5f07e7542.29826377-360.jpg"
+              },
+              {
+                "alt": "5 Cents - Charles III (1st Portrait) - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/66814aef9d3c02.35555031-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/66814aef9d3c02.35555031-360.jpg"
+              },
+              {
+                "alt": "5 Cents - Charles III (1st Portrait) -  obverse",
+                "naturalHeight": 25,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/698b522f8a3004.93373041-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/698b522f8a3004.93373041-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "410263",
+            "pageTitle": "5 Cents - Charles III (1st Portrait) - Australia – Numista",
+            "type": "Standard circulation coins",
+            "value": "5 Cents",
+            "years": "2024-2026"
+          },
+          "front_view_image": "Australia/coin/5澳分/front.jpg",
+          "back_view_image": "Australia/coin/5澳分/back.jpg",
+          "original_front_image": "Australia/coin/5澳分/front_original.jpg",
+          "original_back_image": "Australia/coin/5澳分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b5f07e7542.29826377-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/66814aef9d3c02.35555031-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b5f07e7542.29826377-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/66814aef9d3c02.35555031-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "10澳分",
+          "value": 0.1,
+          "url": "https://en.numista.com/416666",
+          "source": "https://en.numista.com/416666",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "10 Cents - Charles III (1st Portrait) - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/6652b6342203b9.05473602-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/6652b6342203b9.05473602-360.jpg"
+              },
+              {
+                "alt": "10 Cents - Charles III (1st Portrait) - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/668146d8e90027.64041630-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/668146d8e90027.64041630-360.jpg"
+              },
+              {
+                "alt": "10 Cents - Charles III (1st Portrait) -  obverse",
+                "naturalHeight": 26,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/698b53402cd644.09170909-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/698b53402cd644.09170909-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "416666",
+            "pageTitle": "10 Cents - Charles III (1st Portrait) - Australia – Numista",
+            "type": "Standard circulation coins",
+            "value": "10 Cents",
+            "years": "2024-2026"
+          },
+          "front_view_image": "Australia/coin/10澳分/front.jpg",
+          "back_view_image": "Australia/coin/10澳分/back.jpg",
+          "original_front_image": "Australia/coin/10澳分/front_original.jpg",
+          "original_back_image": "Australia/coin/10澳分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b6342203b9.05473602-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/668146d8e90027.64041630-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b6342203b9.05473602-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/668146d8e90027.64041630-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "20澳分",
+          "value": 0.2,
+          "url": "https://en.numista.com/416669",
+          "source": "https://en.numista.com/416669",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "20 Cents - Charles III (1st Portrait) - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/6652b4e59bf5c5.56574525-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/6652b4e59bf5c5.56574525-360.jpg"
+              },
+              {
+                "alt": "20 Cents - Charles III (1st Portrait) - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/66814b95cef183.94703254-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/66814b95cef183.94703254-360.jpg"
+              },
+              {
+                "alt": "20 Cents - Charles III (1st Portrait) -  obverse",
+                "naturalHeight": 24,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/664f398b3b8304.25854868-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/664f398b3b8304.25854868-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "416669",
+            "pageTitle": "20 Cents - Charles III (1st Portrait) - Australia – Numista",
+            "type": "Standard circulation coins",
+            "value": "20 Cents",
+            "years": "2024-2026"
+          },
+          "front_view_image": "Australia/coin/20澳分/front.jpg",
+          "back_view_image": "Australia/coin/20澳分/back.jpg",
+          "original_front_image": "Australia/coin/20澳分/front_original.jpg",
+          "original_back_image": "Australia/coin/20澳分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b4e59bf5c5.56574525-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/66814b95cef183.94703254-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b4e59bf5c5.56574525-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/66814b95cef183.94703254-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "50澳分",
+          "value": 0.5,
+          "url": "https://en.numista.com/416678",
+          "source": "https://en.numista.com/416678",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "50 Cents - Charles III (1st Portrait) - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/6652b4a86a8cb7.32282732-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/6652b4a86a8cb7.32282732-360.jpg"
+              },
+              {
+                "alt": "50 Cents - Charles III (1st Portrait) - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/6652b5924319a6.06571168-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/6652b5924319a6.06571168-360.jpg"
+              },
+              {
+                "alt": "50 Cents - Charles III (1st Portrait) -  obverse",
+                "naturalHeight": 26,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/664f3d7daa4f42.08351053-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/664f3d7daa4f42.08351053-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "416678",
+            "pageTitle": "50 Cents - Charles III (1st Portrait) - Australia – Numista",
+            "type": "Standard circulation coins",
+            "value": "50 Cents",
+            "years": "2024-2026"
+          },
+          "front_view_image": "Australia/coin/50澳分/front.jpg",
+          "back_view_image": "Australia/coin/50澳分/back.jpg",
+          "original_front_image": "Australia/coin/50澳分/front_original.jpg",
+          "original_back_image": "Australia/coin/50澳分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b4a86a8cb7.32282732-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/6652b5924319a6.06571168-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/6652b4a86a8cb7.32282732-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/6652b5924319a6.06571168-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "1澳元",
+          "value": 1,
+          "url": "https://en.numista.com/381884",
+          "source": "https://en.numista.com/381884",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "1 Dollar - Charles III (1st Portrait - Mob of Five Roos) - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/664f3264f114a9.49145562-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/664f3264f114a9.49145562-360.jpg"
+              },
+              {
+                "alt": "1 Dollar - Charles III (1st Portrait - Mob of Five Roos) - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/664f3266a46869.60009565-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/664f3266a46869.60009565-360.jpg"
+              },
+              {
+                "alt": "1 Dollar - Charles III (1st Portrait - Mob of Five Roos) -  obverse",
+                "naturalHeight": 26,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/664f3268782c37.04759639-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/664f3268782c37.04759639-360.jpg"
+              }
+            ],
+            "issued": "5 December 2023",
+            "issuer": "Australia",
+            "number": "381884",
+            "pageTitle": "1 Dollar - Charles III (1st Portrait - Mob of Five Roos) - Australia – Numista",
+            "type": "Standard circulation coins",
+            "value": "1 Dollar",
+            "years": "2023-2026"
+          },
+          "front_view_image": "Australia/coin/1澳元/front.jpg",
+          "back_view_image": "Australia/coin/1澳元/back.jpg",
+          "original_front_image": "Australia/coin/1澳元/front_original.jpg",
+          "original_back_image": "Australia/coin/1澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/664f3264f114a9.49145562-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/664f3266a46869.60009565-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/664f3264f114a9.49145562-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/664f3266a46869.60009565-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "2澳元",
+          "value": 2,
+          "url": "https://en.numista.com/399676",
+          "source": "https://en.numista.com/399676",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "2 Dollars - Charles III (1st Portrait) - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/65fdaed3de9f88.85650896-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/65fdaed3de9f88.85650896-360.jpg"
+              },
+              {
+                "alt": "2 Dollars - Charles III (1st Portrait) - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/65fdaed57a1b46.62582467-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/65fdaed57a1b46.62582467-360.jpg"
+              },
+              {
+                "alt": "2 Dollars - Charles III (1st Portrait) -  obverse",
+                "naturalHeight": 43,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/69b12c91366177.69227077-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/69b12c91366177.69227077-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "399676",
+            "pageTitle": "2 Dollars - Charles III (1st Portrait) - Australia – Numista",
+            "type": "Standard circulation coins",
+            "value": "2 Dollars",
+            "years": "2024-2026"
+          },
+          "front_view_image": "Australia/coin/2澳元/front.jpg",
+          "back_view_image": "Australia/coin/2澳元/back.jpg",
+          "original_front_image": "Australia/coin/2澳元/front_original.jpg",
+          "original_back_image": "Australia/coin/2澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/65fdaed3de9f88.85650896-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/65fdaed57a1b46.62582467-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/65fdaed3de9f88.85650896-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/65fdaed57a1b46.62582467-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "5澳元",
+          "value": 5,
+          "url": "https://en.numista.com/202026",
+          "source": "https://en.numista.com/202026",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "5 Dollars - Elizabeth II - obverse",
+                "naturalHeight": 88,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/64de5cf08fdf39.36370719-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/64de5cf08fdf39.36370719-360.jpg"
+              },
+              {
+                "alt": "5 Dollars - Elizabeth II - reverse",
+                "naturalHeight": 88,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/64de5cf1bf59a7.12246953-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/64de5cf1bf59a7.12246953-360.jpg"
+              },
+              {
+                "alt": "5 Dollars - Elizabeth II -  obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 81,
+                "original": "https://en.numista.com/catalogue/photos/australie/668225727d3821.60958079-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/668225727d3821.60958079-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "202026",
+            "pageTitle": "5 Dollars - Elizabeth II - Australia – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "5 Dollars",
+            "years": "2016-2021"
+          },
+          "front_view_image": "Australia/banknote/5澳元/front.jpg",
+          "back_view_image": "Australia/banknote/5澳元/back.jpg",
+          "original_front_image": "Australia/banknote/5澳元/front_original.jpg",
+          "original_back_image": "Australia/banknote/5澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/64de5cf08fdf39.36370719-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/64de5cf1bf59a7.12246953-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/64de5cf08fdf39.36370719-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/64de5cf1bf59a7.12246953-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "10澳元",
+          "value": 10,
+          "url": "https://en.numista.com/202860",
+          "source": "https://en.numista.com/202860",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "10 Dollars - obverse",
+                "naturalHeight": 84,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/64df38f97e04d8.27562042-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/64df38f97e04d8.27562042-360.jpg"
+              },
+              {
+                "alt": "10 Dollars - reverse",
+                "naturalHeight": 84,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/64df38faa7b6f6.36487394-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/64df38faa7b6f6.36487394-360.jpg"
+              },
+              {
+                "alt": "10 Dollars -  obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 81,
+                "original": "https://en.numista.com/catalogue/photos/australie/6682266f4aa880.27669587-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/6682266f4aa880.27669587-360.jpg"
+              }
+            ],
+            "issued": "by the Reserve Bank of Australia as part of the Next Generation Banknote series, and was issued into general circulation on September 20, 2017.",
+            "issuer": "Australia",
+            "number": "202860",
+            "pageTitle": "10 Dollars - Australia – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "10 Dollars",
+            "years": "2017"
+          },
+          "front_view_image": "Australia/banknote/10澳元/front.jpg",
+          "back_view_image": "Australia/banknote/10澳元/back.jpg",
+          "original_front_image": "Australia/banknote/10澳元/front_original.jpg",
+          "original_back_image": "Australia/banknote/10澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/64df38f97e04d8.27562042-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/64df38faa7b6f6.36487394-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/64df38f97e04d8.27562042-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/64df38faa7b6f6.36487394-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "20澳元",
+          "value": 20,
+          "url": "https://en.numista.com/202865",
+          "source": "https://en.numista.com/202865",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "20 Dollars - obverse",
+                "naturalHeight": 80,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/651aeee01fee69.92021469-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/651aeee01fee69.92021469-360.jpg"
+              },
+              {
+                "alt": "20 Dollars - reverse",
+                "naturalHeight": 80,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/651aeee114ee31.47490172-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/651aeee114ee31.47490172-360.jpg"
+              }
+            ],
+            "issuer": "Australia",
+            "number": "202865",
+            "pageTitle": "20 Dollars - Australia – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "20 Dollars",
+            "years": "2019-2022"
+          },
+          "front_view_image": "Australia/banknote/20澳元/front.jpg",
+          "back_view_image": "Australia/banknote/20澳元/back.jpg",
+          "original_front_image": "Australia/banknote/20澳元/front_original.jpg",
+          "original_back_image": "Australia/banknote/20澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/651aeee01fee69.92021469-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/651aeee114ee31.47490172-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/651aeee01fee69.92021469-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/651aeee114ee31.47490172-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "50澳元",
+          "value": 50,
+          "url": "https://en.numista.com/202870",
+          "source": "https://en.numista.com/202870",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "50 Dollars - obverse",
+                "naturalHeight": 77,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/66c060efdd3034.30643770-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/66c060efdd3034.30643770-360.jpg"
+              },
+              {
+                "alt": "50 Dollars - reverse",
+                "naturalHeight": 77,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/66c060f19fc828.54445354-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/66c060f19fc828.54445354-360.jpg"
+              }
+            ],
+            "issued": "by the Reserve Bank of Australia as part of the Next Generation Banknote series, and was issued into general circulation on October 18, 2018. A typographical error, the last ‘i’ in \"responsibility\" being missing and spelled instead as \"responsibilty\", was discovered on earlier print runs of the banknote in May 2019, affecting 46 million banknotes. The Reserve Bank confirmed it was aware of the error since December 2018, and will correct the spelling in later print runs.",
+            "issuer": "Australia",
+            "number": "202870",
+            "pageTitle": "50 Dollars - Australia – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "50 Dollars",
+            "years": "2018-2023"
+          },
+          "front_view_image": "Australia/banknote/50澳元/front.jpg",
+          "back_view_image": "Australia/banknote/50澳元/back.jpg",
+          "original_front_image": "Australia/banknote/50澳元/front_original.jpg",
+          "original_back_image": "Australia/banknote/50澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/66c060efdd3034.30643770-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/66c060f19fc828.54445354-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/66c060efdd3034.30643770-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/66c060f19fc828.54445354-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "100澳元",
+          "value": 100,
+          "url": "https://en.numista.com/239038",
+          "source": "https://en.numista.com/239038",
+          "metadata": {
+            "currency": "Dollar (1966-date)",
+            "images": [
+              {
+                "alt": "100 Dollars - obverse",
+                "naturalHeight": 75,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/australie/5fa4eb59d5e512.61139737-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/5fa4eb59d5e512.61139737-360.jpg"
+              },
+              {
+                "alt": "100 Dollars - reverse",
+                "naturalHeight": 75,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/australie/5fa4eb5c515448.57464857-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/australie/5fa4eb5c515448.57464857-360.jpg"
+              }
+            ],
+            "issued": "29 October 2020",
+            "issuer": "Australia",
+            "number": "239038",
+            "pageTitle": "100 Dollars - Australia – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "100 Dollars",
+            "years": "2019-2023"
+          },
+          "front_view_image": "Australia/banknote/100澳元/front.jpg",
+          "back_view_image": "Australia/banknote/100澳元/back.jpg",
+          "original_front_image": "Australia/banknote/100澳元/front_original.jpg",
+          "original_back_image": "Australia/banknote/100澳元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/5fa4eb59d5e512.61139737-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/5fa4eb5c515448.57464857-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/australie/5fa4eb59d5e512.61139737-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/australie/5fa4eb5c515448.57464857-360.jpg"
+          }
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "country": "Singapore",
+      "source": "Numista",
+      "collection_rule": "obverse/reverse image alt text; original.jpg links downloaded through browser media export",
+      "collected": [
+        {
+          "kind": "coin",
+          "name": "5新分",
+          "value": 0.05,
+          "url": "https://en.numista.com/42894",
+          "source": "https://en.numista.com/42894",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "5 Cents - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/322-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/322-360.jpg"
+              },
+              {
+                "alt": "5 Cents - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/323-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/323-360.jpg"
+              },
+              {
+                "alt": "5 Cents -  obverse",
+                "naturalHeight": 129,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/6a2e6bf1c5cd39.14569099-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/6a2e6bf1c5cd39.14569099-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "42894",
+            "pageTitle": "5 Cents - Singapore – Numista",
+            "type": "Standard circulation coins",
+            "value": "5 Cents (0.05 SGD)",
+            "years": "2013-2019"
+          },
+          "front_view_image": "Singapore/coin/5新分/front.jpg",
+          "back_view_image": "Singapore/coin/5新分/back.jpg",
+          "original_front_image": "Singapore/coin/5新分/front_original.jpg",
+          "original_back_image": "Singapore/coin/5新分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/322-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/323-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/322-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/323-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "10新分",
+          "value": 0.1,
+          "url": "https://en.numista.com/42895",
+          "source": "https://en.numista.com/42895",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "10 Cents - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/314-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/314-360.jpg"
+              },
+              {
+                "alt": "10 Cents - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/315-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/315-360.jpg"
+              },
+              {
+                "alt": "10 Cents -  obverse",
+                "naturalHeight": 24,
+                "naturalWidth": 112,
+                "original": "https://en.numista.com/catalogue/photos/singapour/6a3e0680187ed2.56137145-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/6a3e0680187ed2.56137145-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "42895",
+            "pageTitle": "10 Cents - Singapore – Numista",
+            "type": "Standard circulation coins",
+            "value": "10 Cents (0.10 SGD)",
+            "years": "2013-2019"
+          },
+          "front_view_image": "Singapore/coin/10新分/front.jpg",
+          "back_view_image": "Singapore/coin/10新分/back.jpg",
+          "original_front_image": "Singapore/coin/10新分/front_original.jpg",
+          "original_back_image": "Singapore/coin/10新分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/314-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/315-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/314-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/315-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "20新分",
+          "value": 0.2,
+          "url": "https://en.numista.com/42896",
+          "source": "https://en.numista.com/42896",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "20 Cents - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/317-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/317-360.jpg"
+              },
+              {
+                "alt": "20 Cents - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/316-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/316-360.jpg"
+              },
+              {
+                "alt": "20 Cents -  obverse",
+                "naturalHeight": 74,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/6a3e07157bb3f9.55112384-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/6a3e07157bb3f9.55112384-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "42896",
+            "pageTitle": "20 Cents - Singapore – Numista",
+            "type": "Standard circulation coins",
+            "value": "20 Cents (0.20 SGD)",
+            "years": "2013-2019"
+          },
+          "front_view_image": "Singapore/coin/20新分/front.jpg",
+          "back_view_image": "Singapore/coin/20新分/back.jpg",
+          "original_front_image": "Singapore/coin/20新分/front_original.jpg",
+          "original_back_image": "Singapore/coin/20新分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/317-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/316-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/317-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/316-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "50新分",
+          "value": 0.5,
+          "url": "https://en.numista.com/42897",
+          "source": "https://en.numista.com/42897",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "50 Cents - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/318-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/318-360.jpg"
+              },
+              {
+                "alt": "50 Cents - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/319-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/319-360.jpg"
+              },
+              {
+                "alt": "50 Cents -  obverse",
+                "naturalHeight": 63,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/6a3e076e0f9267.69931712-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/6a3e076e0f9267.69931712-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "42897",
+            "pageTitle": "50 Cents - Singapore – Numista",
+            "type": "Standard circulation coins",
+            "value": "50 Cents (0.50 SGD)",
+            "years": "2013-2019"
+          },
+          "front_view_image": "Singapore/coin/50新分/front.jpg",
+          "back_view_image": "Singapore/coin/50新分/back.jpg",
+          "original_front_image": "Singapore/coin/50新分/front_original.jpg",
+          "original_back_image": "Singapore/coin/50新分/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/318-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/319-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/318-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/319-360.jpg"
+          }
+        },
+        {
+          "kind": "coin",
+          "name": "1新元",
+          "value": 1,
+          "url": "https://en.numista.com/42898",
+          "source": "https://en.numista.com/42898",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "1 Dollar - obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/1652-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/1652-360.jpg"
+              },
+              {
+                "alt": "1 Dollar - reverse",
+                "naturalHeight": 180,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/1653-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/1653-360.jpg"
+              },
+              {
+                "alt": "1 Dollar -  obverse",
+                "naturalHeight": 52,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/6a3e07ce1ccb60.66044546-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/6a3e07ce1ccb60.66044546-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "42898",
+            "pageTitle": "1 Dollar - Singapore – Numista",
+            "type": "Standard circulation coins",
+            "value": "1 Dollar (1 SGD)",
+            "years": "2013-2019"
+          },
+          "front_view_image": "Singapore/coin/1新元/front.jpg",
+          "back_view_image": "Singapore/coin/1新元/back.jpg",
+          "original_front_image": "Singapore/coin/1新元/front_original.jpg",
+          "original_back_image": "Singapore/coin/1新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/1652-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/1653-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/1652-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/1653-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "2新元",
+          "value": 2,
+          "url": "https://en.numista.com/202244",
+          "source": "https://en.numista.com/202244",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "2 Dollars (MAS; polymer) - obverse",
+                "naturalHeight": 88,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/626c1e69574431.97909339-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/626c1e69574431.97909339-360.jpg"
+              },
+              {
+                "alt": "2 Dollars (MAS; polymer) - reverse",
+                "naturalHeight": 88,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/626c1e69ec1b75.90044717-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/626c1e69ec1b75.90044717-360.jpg"
+              },
+              {
+                "alt": "2 Dollars (MAS; polymer) -  obverse",
+                "naturalHeight": 150,
+                "naturalWidth": 136,
+                "original": "https://en.numista.com/catalogue/photos/singapour/601b9427d5dc49.58449720-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/601b9427d5dc49.58449720-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "202244",
+            "pageTitle": "2 Dollars (MAS; polymer) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "2 Dollars (2 SGD)",
+            "years": "2006-2024"
+          },
+          "front_view_image": "Singapore/banknote/2新元/front.jpg",
+          "back_view_image": "Singapore/banknote/2新元/back.jpg",
+          "original_front_image": "Singapore/banknote/2新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/2新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/626c1e69574431.97909339-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/626c1e69ec1b75.90044717-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/626c1e69574431.97909339-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/626c1e69ec1b75.90044717-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "5新元",
+          "value": 5,
+          "url": "https://en.numista.com/203037",
+          "source": "https://en.numista.com/203037",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "5 Dollars (MAS; polymer) - obverse",
+                "naturalHeight": 89,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/678a45ad965309.73032411-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/678a45ad965309.73032411-360.jpg"
+              },
+              {
+                "alt": "5 Dollars (MAS; polymer) - reverse",
+                "naturalHeight": 88,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/678a45ae7e0972.00674030-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/678a45ae7e0972.00674030-360.jpg"
+              },
+              {
+                "alt": "5 Dollars (MAS; polymer) -  obverse",
+                "naturalHeight": 131,
+                "naturalWidth": 119,
+                "original": "https://en.numista.com/catalogue/photos/singapour/601b97443c9f43.66355221-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/601b97443c9f43.66355221-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "203037",
+            "pageTitle": "5 Dollars (MAS; polymer) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "5 Dollars (5 SGD)",
+            "years": "2007-2024"
+          },
+          "front_view_image": "Singapore/banknote/5新元/front.jpg",
+          "back_view_image": "Singapore/banknote/5新元/back.jpg",
+          "original_front_image": "Singapore/banknote/5新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/5新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/678a45ad965309.73032411-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/678a45ae7e0972.00674030-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/678a45ad965309.73032411-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/678a45ae7e0972.00674030-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "10新元",
+          "value": 10,
+          "url": "https://en.numista.com/202498",
+          "source": "https://en.numista.com/202498",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "10 Dollars (MAS; polymer) - obverse",
+                "naturalHeight": 87,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/604f9a466d0e96.13242974-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/604f9a466d0e96.13242974-360.jpg"
+              },
+              {
+                "alt": "10 Dollars (MAS; polymer) - reverse",
+                "naturalHeight": 88,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/604f9a6581ec35.42905393-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/604f9a6581ec35.42905393-360.jpg"
+              },
+              {
+                "alt": "10 Dollars (MAS; polymer) -  obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 167,
+                "original": "https://en.numista.com/catalogue/photos/singapour/604427574b1853.91712753-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/604427574b1853.91712753-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "202498",
+            "pageTitle": "10 Dollars (MAS; polymer) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "10 Dollars (10 SGD)",
+            "years": "2004-2026"
+          },
+          "front_view_image": "Singapore/banknote/10新元/front.jpg",
+          "back_view_image": "Singapore/banknote/10新元/back.jpg",
+          "original_front_image": "Singapore/banknote/10新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/10新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/604f9a466d0e96.13242974-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/604f9a6581ec35.42905393-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/604f9a466d0e96.13242974-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/604f9a6581ec35.42905393-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "50新元",
+          "value": 50,
+          "url": "https://en.numista.com/205537",
+          "source": "https://en.numista.com/205537",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "50 Dollars (MAS) - obverse",
+                "naturalHeight": 86,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf032ee33.44152846-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf032ee33.44152846-360.jpg"
+              },
+              {
+                "alt": "50 Dollars (MAS) - reverse",
+                "naturalHeight": 86,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf0896f65.92897362-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf0896f65.92897362-360.jpg"
+              },
+              {
+                "alt": "50 Dollars (MAS) -  obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 124,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5f53c352835cf5.51614713-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5f53c352835cf5.51614713-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "205537",
+            "pageTitle": "50 Dollars (MAS) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "50 Dollars (50 SGD)",
+            "years": "2005-2024"
+          },
+          "front_view_image": "Singapore/banknote/50新元/front.jpg",
+          "back_view_image": "Singapore/banknote/50新元/back.jpg",
+          "original_front_image": "Singapore/banknote/50新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/50新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf032ee33.44152846-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf0896f65.92897362-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf032ee33.44152846-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf0896f65.92897362-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "100新元",
+          "value": 100,
+          "url": "https://en.numista.com/205540",
+          "source": "https://en.numista.com/205540",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "100 Dollars (MAS) - obverse",
+                "naturalHeight": 86,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd15f88a8.42493485-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd15f88a8.42493485-360.jpg"
+              },
+              {
+                "alt": "100 Dollars (MAS) - reverse",
+                "naturalHeight": 86,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd1b79854.65717464-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd1b79854.65717464-360.jpg"
+              },
+              {
+                "alt": "100 Dollars (MAS) -  obverse",
+                "naturalHeight": 180,
+                "naturalWidth": 166,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5fca1353497618.15832964-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5fca1353497618.15832964-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "205540",
+            "pageTitle": "100 Dollars (MAS) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "100 Dollars (100 SGD)",
+            "years": "2009-2023"
+          },
+          "front_view_image": "Singapore/banknote/100新元/front.jpg",
+          "back_view_image": "Singapore/banknote/100新元/back.jpg",
+          "original_front_image": "Singapore/banknote/100新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/100新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd15f88a8.42493485-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd1b79854.65717464-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd15f88a8.42493485-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd1b79854.65717464-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "1000新元",
+          "value": 1000,
+          "url": "https://en.numista.com/229025",
+          "source": "https://en.numista.com/229025",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "1000 Dollars (MAS) - obverse",
+                "naturalHeight": 85,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7626a66.24380159-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7626a66.24380159-360.jpg"
+              },
+              {
+                "alt": "1000 Dollars (MAS) - reverse",
+                "naturalHeight": 86,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7816d52.51408072-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7816d52.51408072-360.jpg"
+              }
+            ],
+            "issuer": "Singapore",
+            "number": "229025",
+            "pageTitle": "1000 Dollars (MAS) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "1000 Dollars (1000 SGD)",
+            "years": "2009-2019"
+          },
+          "front_view_image": "Singapore/banknote/1000新元/front.jpg",
+          "back_view_image": "Singapore/banknote/1000新元/back.jpg",
+          "original_front_image": "Singapore/banknote/1000新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/1000新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7626a66.24380159-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7816d52.51408072-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7626a66.24380159-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7816d52.51408072-360.jpg"
+          }
+        },
+        {
+          "kind": "banknote",
+          "name": "10000新元",
+          "value": 10000,
+          "url": "https://en.numista.com/206051",
+          "source": "https://en.numista.com/206051",
+          "metadata": {
+            "currency": "Dollar (1967-date)",
+            "images": [
+              {
+                "alt": "10 000 Dollars (BCCS) - obverse",
+                "naturalHeight": 89,
+                "naturalWidth": 179,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5e9fcd997a7503.00557117-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5e9fcd997a7503.00557117-360.jpg"
+              },
+              {
+                "alt": "10 000 Dollars (BCCS) - reverse",
+                "naturalHeight": 90,
+                "naturalWidth": 180,
+                "original": "https://en.numista.com/catalogue/photos/singapour/5e9fcd999cbbc0.10673531-original.jpg",
+                "src": "https://en.numista.com/catalogue/photos/singapour/5e9fcd999cbbc0.10673531-360.jpg"
+              }
+            ],
+            "issued": "by the Board of Commissioners of Currency, Singapore (since merged to the Monetary Authority of Singapore), as part of the Singapore Portrait Series currency notes, and was issued into general circulation on September 9, 1999. The SG$10,000 and the B$10,000 (of Brunei) are the world's most valuable banknotes (that are officially in circulation) in terms of purchasing power, compared to the other widely used banknote, the 1,000 Swiss francs banknote. On July 2, 2014, the Monetary Authority of Singapore announced that it would stop printing $10,000 notes starting from October 1, 2014, to reduce the risk of money laundering. Singapore has now officially stopped producing the S$10,000 banknote and has thus begun the process of withdrawing it from active circulation. The Monetary Authority of Singapore said that the notes will likely remain legal tender until all the notes slowly get returned as they get damaged.",
+            "issuer": "Singapore",
+            "number": "206051",
+            "pageTitle": "10 000 Dollars (BCCS) - Singapore – Numista",
+            "type": "Standard circulation banknotes",
+            "value": "10 000 Dollars (10 000 SGD)",
+            "years": "1999"
+          },
+          "front_view_image": "Singapore/banknote/10000新元/front.jpg",
+          "back_view_image": "Singapore/banknote/10000新元/back.jpg",
+          "original_front_image": "Singapore/banknote/10000新元/front_original.jpg",
+          "original_back_image": "Singapore/banknote/10000新元/back_original.jpg",
+          "original_source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5e9fcd997a7503.00557117-original.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5e9fcd999cbbc0.10673531-original.jpg"
+          },
+          "source_images": {
+            "front": "https://en.numista.com/catalogue/photos/singapour/5e9fcd997a7503.00557117-360.jpg",
+            "back": "https://en.numista.com/catalogue/photos/singapour/5e9fcd999cbbc0.10673531-360.jpg"
+          }
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "source": "Norges Bank",
+      "country": "Norway",
+      "collected_at": "2026-07-04T15:40:03.641382Z",
+      "coin_count": 4,
+      "banknote_count": 5,
+      "legal_tender_source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "sources": [
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/1-krone-coin/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/10-krone-coin/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/100-krone-note/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/1000-krone-note/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/20-krone-coin/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/200-krone-note/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/5-krone-coin/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/50-krone-note/",
+        "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/500-krone-note/"
+      ]
+    },
+    {
+      "source": "Sveriges Riksbank",
+      "country": "Sweden",
+      "collected_at": "2026-07-04T15:46:42.484833Z",
+      "coin_count": 4,
+      "banknote_count": 6,
+      "valid_banknotes_source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/",
+      "valid_coins_source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/coins/valid-coins/",
+      "sources": [
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/coins/valid-coins/1-krona-coin/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/coins/valid-coins/10-krona-coin/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/coins/valid-coins/2-krona-coin/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/coins/valid-coins/5-krona-coin/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/100-krona-banknote/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/1000-krona-banknote/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/20-krona-banknote/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/200-krona-banknote/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/50-krona-banknote/",
+        "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/500-krona-banknote/"
+      ]
+    },
+    {
+      "source": "Swiss National Bank and Swissmint",
+      "country": "Switzerland",
+      "collected_at": "2026-07-04T15:57:55.504343Z",
+      "coin_count": 7,
+      "banknote_count": 6,
+      "banknote_source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/series-9",
+      "coin_source": "https://www.swissmint.ch/en/circulation-coins",
+      "sources": [
+        "https://www.snb.ch/en/the-snb/mandates-goals/cash/series-9",
+        "https://www.swissmint.ch/en/circulation-coins"
+      ]
+    },
+    {
+      "source": "Bangko Sentral ng Pilipinas",
+      "country": "Philippines",
+      "collected_at": "2026-07-04T16:14:17.467666Z",
+      "coin_count": 7,
+      "banknote_count": 6,
+      "banknote_sources": [
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+      ],
+      "coin_source": "https://www.bsp.gov.ph/Pages/CoinsAndNotes/Coins/NewGenerationCurrencyCoinSeries.aspx",
+      "sources": [
+        "https://www.bsp.gov.ph/Pages/CoinsAndNotes/Coins/NewGenerationCurrencyCoinSeries.aspx",
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+      ]
+    },
+    {
+      "source": "Bangko Sentral ng Pilipinas",
+      "country": "Philippines",
+      "collected_at": "2026-07-04T16:17:17.205987Z",
+      "coin_count": 7,
+      "banknote_count": 6,
+      "banknote_sources": [
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+      ],
+      "coin_source": "https://www.bsp.gov.ph/Pages/CoinsAndNotes/Coins/NewGenerationCurrencyCoinSeries.aspx",
+      "sources": [
+        "https://www.bsp.gov.ph/Pages/CoinsAndNotes/Coins/NewGenerationCurrencyCoinSeries.aspx",
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/NewGenerationCurrencyBanknotes.aspx",
+        "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/PolymerBanknote.aspx"
+      ]
+    }
+  ],
+  "original_downloads": {
+    "generated_at": "2026-07-04T14:41:58.754Z",
+    "results": [
+      {
+        "country": "China",
+        "kind": "coin",
+        "name": "1角",
+        "front": "https://en.numista.com/catalogue/photos/chine/3813-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/3814-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "coin",
+        "name": "5角",
+        "front": "https://en.numista.com/catalogue/photos/chine/6a3cc316ee8091.51528101-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/6a3cc3178ec9e8.05409453-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "coin",
+        "name": "1元",
+        "front": "https://en.numista.com/catalogue/photos/chine/3811-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/3812-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "1元",
+        "front": "https://en.numista.com/catalogue/photos/chine/5ede400ebef881.51111026-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/5ede400fc20b86.14884131-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "5元",
+        "front": "https://en.numista.com/catalogue/photos/chine/6555775363b502.03855347-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/65557753d7b448.03030965-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "10元",
+        "front": "https://en.numista.com/catalogue/photos/chine/6681a38461baa8.71925185-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/672e422d807ea7.62462358-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "20元",
+        "front": "https://en.numista.com/catalogue/photos/chine/63df74ce234a41.74320214-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/63df74d0264699.06079628-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "50元",
+        "front": "https://en.numista.com/catalogue/photos/chine/5ef5d735a21884.04971230-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/5ef5d735edcca6.81749254-original.jpg"
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "100元",
+        "front": "https://en.numista.com/catalogue/photos/chine/63bda6941b8729.39160559-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/chine/63bda6956149b8.66960143-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "1日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/639531e0c74f73.76890922-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/639531e164db35.74173580-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "5日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/63953262b482e6.79257338-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/639532632ffa59.59230787-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "10日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/639532cc159f46.92247992-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/639532cca565b8.00444569-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "50日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/639534cf28a517.28766785-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/639534cfaf0524.59766514-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "100日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/639534f4e039f4.37504576-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/639534f55d9a82.25383899-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "500日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/632542805c3998.32053104-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/63254281812e34.76214777-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "1000日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/66855b7c83e347.23203622-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/66855b7d242ea2.93980853-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "2000日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/62f934a690b6d7.98772881-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/62f934a70d1ad6.29655684-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "5000日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/668558eac4fb99.31585124-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/668558eb61d2d4.95214999-original.jpg"
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "10000日元",
+        "front": "https://en.numista.com/catalogue/photos/japon/6685591fe09969.79220912-original.jpg",
+        "back": "https://en.numista.com/catalogue/photos/japon/66855920a5f468.35452708-original.jpg"
+      }
+    ]
+  },
+  "image_normalization": {
+    "generated_at": "2026-07-04T14:53:48.082Z",
+    "report": [
+      {
+        "country": "China",
+        "kind": "coin",
+        "name": "1角",
+        "finalFront": {
+          "width": 446,
+          "height": 446
+        },
+        "finalBack": {
+          "width": 446,
+          "height": 446
+        },
+        "frontDim": {
+          "width": 446,
+          "height": 446
+        },
+        "backDim": {
+          "width": 446,
+          "height": 446
+        }
+      },
+      {
+        "country": "China",
+        "kind": "coin",
+        "name": "5角",
+        "finalFront": {
+          "width": 513,
+          "height": 519
+        },
+        "finalBack": {
+          "width": 513,
+          "height": 519
+        },
+        "frontDim": {
+          "width": 509,
+          "height": 513
+        },
+        "backDim": {
+          "width": 513,
+          "height": 519
+        }
+      },
+      {
+        "country": "China",
+        "kind": "coin",
+        "name": "1元",
+        "finalFront": {
+          "width": 528,
+          "height": 528
+        },
+        "finalBack": {
+          "width": 528,
+          "height": 528
+        },
+        "frontDim": {
+          "width": 528,
+          "height": 528
+        },
+        "backDim": {
+          "width": 528,
+          "height": 528
+        }
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "1元",
+        "finalFront": {
+          "width": 2892,
+          "height": 1388
+        },
+        "finalBack": {
+          "width": 2892,
+          "height": 1388
+        },
+        "frontDim": {
+          "width": 2768,
+          "height": 1334
+        },
+        "backDim": {
+          "width": 2892,
+          "height": 1388
+        }
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "5元",
+        "finalFront": {
+          "width": 1599,
+          "height": 747
+        },
+        "finalBack": {
+          "width": 1599,
+          "height": 747
+        },
+        "frontDim": {
+          "width": 1599,
+          "height": 744
+        },
+        "backDim": {
+          "width": 1594,
+          "height": 747
+        }
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "10元",
+        "finalFront": {
+          "width": 2605,
+          "height": 1311
+        },
+        "finalBack": {
+          "width": 2605,
+          "height": 1311
+        },
+        "frontDim": {
+          "width": 2605,
+          "height": 1311
+        },
+        "backDim": {
+          "width": 1117,
+          "height": 575
+        }
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "20元",
+        "finalFront": {
+          "width": 2500,
+          "height": 1201
+        },
+        "finalBack": {
+          "width": 2500,
+          "height": 1201
+        },
+        "frontDim": {
+          "width": 2500,
+          "height": 1201
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 1201
+        }
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "50元",
+        "finalFront": {
+          "width": 834,
+          "height": 390
+        },
+        "finalBack": {
+          "width": 834,
+          "height": 390
+        },
+        "frontDim": {
+          "width": 814,
+          "height": 383
+        },
+        "backDim": {
+          "width": 834,
+          "height": 390
+        }
+      },
+      {
+        "country": "China",
+        "kind": "banknote",
+        "name": "100元",
+        "finalFront": {
+          "width": 2500,
+          "height": 1239
+        },
+        "finalBack": {
+          "width": 2500,
+          "height": 1239
+        },
+        "frontDim": {
+          "width": 2500,
+          "height": 1239
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 1239
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "1日元",
+        "finalFront": {
+          "width": 1200,
+          "height": 1200
+        },
+        "finalBack": {
+          "width": 1200,
+          "height": 1200
+        },
+        "frontDim": {
+          "width": 1200,
+          "height": 1200
+        },
+        "backDim": {
+          "width": 1000,
+          "height": 1000
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "5日元",
+        "finalFront": {
+          "width": 1200,
+          "height": 1200
+        },
+        "finalBack": {
+          "width": 1200,
+          "height": 1200
+        },
+        "frontDim": {
+          "width": 1200,
+          "height": 1200
+        },
+        "backDim": {
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "10日元",
+        "finalFront": {
+          "width": 1200,
+          "height": 1200
+        },
+        "finalBack": {
+          "width": 1200,
+          "height": 1200
+        },
+        "frontDim": {
+          "width": 1200,
+          "height": 1200
+        },
+        "backDim": {
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "50日元",
+        "finalFront": {
+          "width": 1200,
+          "height": 1200
+        },
+        "finalBack": {
+          "width": 1200,
+          "height": 1200
+        },
+        "frontDim": {
+          "width": 1200,
+          "height": 1200
+        },
+        "backDim": {
+          "width": 1199,
+          "height": 1200
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "100日元",
+        "finalFront": {
+          "width": 1200,
+          "height": 1200
+        },
+        "finalBack": {
+          "width": 1200,
+          "height": 1200
+        },
+        "frontDim": {
+          "width": 1200,
+          "height": 1200
+        },
+        "backDim": {
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "coin",
+        "name": "500日元",
+        "finalFront": {
+          "width": 2000,
+          "height": 2000
+        },
+        "finalBack": {
+          "width": 2000,
+          "height": 2000
+        },
+        "frontDim": {
+          "width": 2000,
+          "height": 2000
+        },
+        "backDim": {
+          "width": 2000,
+          "height": 2000
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "1000日元",
+        "finalFront": {
+          "width": 1767,
+          "height": 898
+        },
+        "finalBack": {
+          "width": 1767,
+          "height": 898
+        },
+        "frontDim": {
+          "width": 1767,
+          "height": 898
+        },
+        "backDim": {
+          "width": 1767,
+          "height": 898
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "2000日元",
+        "finalFront": {
+          "width": 1845,
+          "height": 880
+        },
+        "finalBack": {
+          "width": 1845,
+          "height": 880
+        },
+        "frontDim": {
+          "width": 1840,
+          "height": 880
+        },
+        "backDim": {
+          "width": 1845,
+          "height": 879
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "5000日元",
+        "finalFront": {
+          "width": 1838,
+          "height": 899
+        },
+        "finalBack": {
+          "width": 1838,
+          "height": 899
+        },
+        "frontDim": {
+          "width": 1838,
+          "height": 899
+        },
+        "backDim": {
+          "width": 1838,
+          "height": 899
+        }
+      },
+      {
+        "country": "Japan",
+        "kind": "banknote",
+        "name": "10000日元",
+        "finalFront": {
+          "width": 1889,
+          "height": 902
+        },
+        "finalBack": {
+          "width": 1889,
+          "height": 902
+        },
+        "frontDim": {
+          "width": 1889,
+          "height": 902
+        },
+        "backDim": {
+          "width": 1889,
+          "height": 902
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "coin",
+        "name": "5澳分",
+        "finalFront": {
+          "width": 2600,
+          "height": 2600
+        },
+        "finalBack": {
+          "width": 2600,
+          "height": 2600
+        },
+        "frontDim": {
+          "width": 2600,
+          "height": 2600
+        },
+        "backDim": {
+          "width": 2190,
+          "height": 2190
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "coin",
+        "name": "10澳分",
+        "finalFront": {
+          "width": 2600,
+          "height": 2600
+        },
+        "finalBack": {
+          "width": 2600,
+          "height": 2600
+        },
+        "frontDim": {
+          "width": 2600,
+          "height": 2600
+        },
+        "backDim": {
+          "width": 2496,
+          "height": 2496
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "coin",
+        "name": "20澳分",
+        "finalFront": {
+          "width": 2600,
+          "height": 2600
+        },
+        "finalBack": {
+          "width": 2600,
+          "height": 2600
+        },
+        "frontDim": {
+          "width": 2600,
+          "height": 2600
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 2500
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "coin",
+        "name": "50澳分",
+        "finalFront": {
+          "width": 2600,
+          "height": 2600
+        },
+        "finalBack": {
+          "width": 2600,
+          "height": 2600
+        },
+        "frontDim": {
+          "width": 2580,
+          "height": 2580
+        },
+        "backDim": {
+          "width": 2600,
+          "height": 2600
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "coin",
+        "name": "1澳元",
+        "finalFront": {
+          "width": 2496,
+          "height": 2496
+        },
+        "finalBack": {
+          "width": 2496,
+          "height": 2496
+        },
+        "frontDim": {
+          "width": 2496,
+          "height": 2496
+        },
+        "backDim": {
+          "width": 2490,
+          "height": 2490
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "coin",
+        "name": "2澳元",
+        "finalFront": {
+          "width": 2200,
+          "height": 2200
+        },
+        "finalBack": {
+          "width": 2200,
+          "height": 2200
+        },
+        "frontDim": {
+          "width": 2190,
+          "height": 2190
+        },
+        "backDim": {
+          "width": 2200,
+          "height": 2200
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "banknote",
+        "name": "5澳元",
+        "finalFront": {
+          "width": 2500,
+          "height": 1228
+        },
+        "finalBack": {
+          "width": 2500,
+          "height": 1228
+        },
+        "frontDim": {
+          "width": 2500,
+          "height": 1228
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 1228
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "banknote",
+        "name": "10澳元",
+        "finalFront": {
+          "width": 2500,
+          "height": 1169
+        },
+        "finalBack": {
+          "width": 2500,
+          "height": 1169
+        },
+        "frontDim": {
+          "width": 2500,
+          "height": 1169
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 1169
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "banknote",
+        "name": "20澳元",
+        "finalFront": {
+          "width": 2500,
+          "height": 1113
+        },
+        "finalBack": {
+          "width": 2500,
+          "height": 1113
+        },
+        "frontDim": {
+          "width": 2500,
+          "height": 1112
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 1113
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "banknote",
+        "name": "50澳元",
+        "finalFront": {
+          "width": 2500,
+          "height": 1073
+        },
+        "finalBack": {
+          "width": 2500,
+          "height": 1073
+        },
+        "frontDim": {
+          "width": 2500,
+          "height": 1072
+        },
+        "backDim": {
+          "width": 2500,
+          "height": 1073
+        }
+      },
+      {
+        "country": "Australia",
+        "kind": "banknote",
+        "name": "100澳元",
+        "finalFront": {
+          "width": 4349,
+          "height": 1817
+        },
+        "finalBack": {
+          "width": 4349,
+          "height": 1817
+        },
+        "frontDim": {
+          "width": 4312,
+          "height": 1797
+        },
+        "backDim": {
+          "width": 4349,
+          "height": 1817
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "coin",
+        "name": "5新分",
+        "finalFront": {
+          "width": 800,
+          "height": 800
+        },
+        "finalBack": {
+          "width": 800,
+          "height": 800
+        },
+        "frontDim": {
+          "width": 800,
+          "height": 800
+        },
+        "backDim": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "coin",
+        "name": "10新分",
+        "finalFront": {
+          "width": 800,
+          "height": 800
+        },
+        "finalBack": {
+          "width": 800,
+          "height": 800
+        },
+        "frontDim": {
+          "width": 800,
+          "height": 800
+        },
+        "backDim": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "coin",
+        "name": "20新分",
+        "finalFront": {
+          "width": 800,
+          "height": 800
+        },
+        "finalBack": {
+          "width": 800,
+          "height": 800
+        },
+        "frontDim": {
+          "width": 800,
+          "height": 800
+        },
+        "backDim": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "coin",
+        "name": "50新分",
+        "finalFront": {
+          "width": 800,
+          "height": 800
+        },
+        "finalBack": {
+          "width": 800,
+          "height": 800
+        },
+        "frontDim": {
+          "width": 800,
+          "height": 800
+        },
+        "backDim": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "coin",
+        "name": "1新元",
+        "finalFront": {
+          "width": 900,
+          "height": 900
+        },
+        "finalBack": {
+          "width": 900,
+          "height": 900
+        },
+        "frontDim": {
+          "width": 900,
+          "height": 900
+        },
+        "backDim": {
+          "width": 900,
+          "height": 900
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "2新元",
+        "finalFront": {
+          "width": 2000,
+          "height": 980
+        },
+        "finalBack": {
+          "width": 2000,
+          "height": 980
+        },
+        "frontDim": {
+          "width": 2000,
+          "height": 980
+        },
+        "backDim": {
+          "width": 2000,
+          "height": 980
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "5新元",
+        "finalFront": {
+          "width": 2207,
+          "height": 1096
+        },
+        "finalBack": {
+          "width": 2207,
+          "height": 1096
+        },
+        "frontDim": {
+          "width": 2207,
+          "height": 1096
+        },
+        "backDim": {
+          "width": 2200,
+          "height": 1084
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "10新元",
+        "finalFront": {
+          "width": 3307,
+          "height": 1609
+        },
+        "finalBack": {
+          "width": 3307,
+          "height": 1609
+        },
+        "frontDim": {
+          "width": 3307,
+          "height": 1609
+        },
+        "backDim": {
+          "width": 3285,
+          "height": 1607
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "50新元",
+        "finalFront": {
+          "width": 1600,
+          "height": 770
+        },
+        "finalBack": {
+          "width": 1600,
+          "height": 770
+        },
+        "frontDim": {
+          "width": 1600,
+          "height": 763
+        },
+        "backDim": {
+          "width": 1600,
+          "height": 770
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "100新元",
+        "finalFront": {
+          "width": 1600,
+          "height": 770
+        },
+        "finalBack": {
+          "width": 1600,
+          "height": 770
+        },
+        "frontDim": {
+          "width": 1600,
+          "height": 770
+        },
+        "backDim": {
+          "width": 1600,
+          "height": 768
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "1000新元",
+        "finalFront": {
+          "width": 600,
+          "height": 288
+        },
+        "finalBack": {
+          "width": 600,
+          "height": 288
+        },
+        "frontDim": {
+          "width": 600,
+          "height": 285
+        },
+        "backDim": {
+          "width": 600,
+          "height": 288
+        }
+      },
+      {
+        "country": "Singapore",
+        "kind": "banknote",
+        "name": "10000新元",
+        "finalFront": {
+          "width": 600,
+          "height": 300
+        },
+        "finalBack": {
+          "width": 600,
+          "height": 300
+        },
+        "frontDim": {
+          "width": 600,
+          "height": 299
+        },
+        "backDim": {
+          "width": 600,
+          "height": 300
+        }
+      }
+    ]
+  },
+  "canada": {
+    "status": "complete",
+    "collected_at": "2026-07-04",
+    "coins": 6,
+    "banknotes": 5,
+    "sources": [
+      "Numista in-app browser",
+      "Bank of Canada official banknote pages"
+    ],
+    "note": "Canada was added only after all circulating coin and banknote denominations had front/back originals and normalized same-size finals."
+  },
+  "denmark": {
+    "status": "complete",
+    "collected_at": "2026-07-05T01:24:36.369768+00:00",
+    "coins": 6,
+    "banknotes": 4,
+    "sources": [
+      "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/danish-banknotes-today",
+      "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/danish-coins-today",
+      "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-photos"
+    ],
+    "note": "Banknotes were split from official 2009A combined front/back PNGs. Coins were split from official combined front/back PNGs."
+  },
+  "chile": {
+    "status": "complete",
+    "collected_at": "2026-07-05T01:33:07.253224+00:00",
+    "coins": 4,
+    "banknotes": 5,
+    "sources": [
+      "https://www.billetesymonedas.cl/ZonaEducativa/ImagenesBilletesMonedas",
+      "https://www.billetesymonedas.cl/Billetes/BilleteActual/1000",
+      "https://www.billetesymonedas.cl/Monedas/Moneda/1"
+    ],
+    "note": "Current Chilean banknote and coin front/back images were downloaded from Banco Central de Chile's Billetes y Monedas image index."
+  },
+  "costa_rica": {
+    "status": "complete",
+    "collected_at": "2026-07-05T01:44:28.273462+00:00",
+    "coins": 20,
+    "banknotes": 5,
+    "sources": [
+      "https://www.bccr.fi.cr/billetes-y-monedas/billetes-en-circulaci%C3%B3n",
+      "https://www.bccr.fi.cr/billetes-y-monedas/monedas"
+    ],
+    "note": "Current Costa Rican polymer banknotes and BCCR-listed corriente coin designs were downloaded from Banco Central de Costa Rica pages."
+  },
+  "uruguay": {
+    "status": "complete",
+    "collected_at": "2026-07-05T01:52:45.328358+00:00",
+    "coins": 4,
+    "banknotes": 7,
+    "sources": [
+      "https://subsitio.bcu.gub.uy/billetes/",
+      "https://subsitio.bcu.gub.uy/monedas/"
+    ],
+    "note": "Current Uruguay coin images and BCU banknote combined display images were downloaded from Banco Central del Uruguay subsites."
+  },
+  "united_arab_emirates": {
+    "status": "complete",
+    "collected_at": "2026-07-05T03:21:40.825028+00:00",
+    "coins": 6,
+    "banknotes": 8,
+    "source": "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/",
+    "sources": [
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/coins/1-fils/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/coins/10-fils/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/coins/25-fils/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/coins/5-fils/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/coins/50-fils/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/coins/aed-1-coin/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-10-polymer/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-100-polymer/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-1000-polymer/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-20/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-200/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-5-polymer/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-50-polymer/",
+      "https://www.centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-500-polymer/"
+    ],
+    "note": "Banknotes were split from official Central Bank of the UAE combined front/back images. Coins were downloaded from official per-side PNGs. The AED 20 note image includes two issue columns; the 2015 right-column front/back images were cropped as the latest issue."
+  },
+  "bahrain": {
+    "status": "complete",
+    "collected_at": "2026-07-05T03:32:50.119445+00:00",
+    "coins": 5,
+    "banknotes": 5,
+    "banknote_source": "https://www.cbb.gov.bh/upgraded-fourth-issue/",
+    "coin_source": "https://www.cbb.gov.bh/current-coins/",
+    "sources": [
+      "https://www.cbb.gov.bh/upgraded-fourth-issue/",
+      "https://www.cbb.gov.bh/current-coins/"
+    ],
+    "note": "Downloaded CBB 2023 upgraded fourth issue banknote front/back images and current coin front/back images. WordPress original coin image URLs were used where the page displayed thumbnail variants."
+  },
+  "kuwait": {
+    "status": "complete",
+    "collected_at": "2026-07-05T03:45:27.253332+00:00",
+    "coins": 6,
+    "banknotes": 6,
+    "banknote_source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "coin_source": "https://www.cbk.gov.kw/en/banknotes-and-coins/coins",
+    "sources": [
+      "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+      "https://www.cbk.gov.kw/en/banknotes-and-coins/coins"
+    ],
+    "note": "Downloaded CBK sixth-issue banknote large front/back images. Downloaded CBK current coin 3x combined side images and split each image vertically into front/back originals."
+  },
+  "georgia": {
+    "status": "complete",
+    "collected_at": "2026-07-05T10:40:47.390042+00:00",
+    "coins": 8,
+    "banknotes": 5,
+    "banknote_source": "https://nbg.gov.ge/en/georgian-money/banknotes",
+    "coin_source": "https://nbg.gov.ge/en/georgian-money/coins",
+    "sources": [
+      "https://nbg.gov.ge/en/georgian-money/banknotes",
+      "https://nbg.gov.ge/en/georgian-money/coins"
+    ],
+    "note": "Downloaded National Bank of Georgia current banknote and circulation-coin front/back image files referenced in the Next.js page data."
+  },
+  "taiwan": {
+    "status": "complete",
+    "collected_at": "2026-07-06T13:59:35.493953+00:00",
+    "coins": 6,
+    "banknotes": 5,
+    "banknote_source": "https://museum.cbc.gov.tw/server/web/circulation_en/52",
+    "coin_source": "https://museum.cbc.gov.tw/server/web/circulation_en/54",
+    "sources": [
+      "https://museum.cbc.gov.tw/server/web/circulation_en/52",
+      "https://museum.cbc.gov.tw/server/web/circulation_en/54"
+    ],
+    "note": "Downloaded official CBC Currency Museum detail records and front/back PNG images from /ExhibitsImg/Search/. Images were normalized to matching front/back dimensions per denomination/design."
+  },
+  "ukraine": {
+    "status": "complete",
+    "collected_at": "2026-07-08T15:09:22.764442+00:00",
+    "coins": 10,
+    "banknotes": 6,
+    "banknote_source": "https://bank.gov.ua/en/uah/obig-banknote",
+    "coin_source": "https://bank.gov.ua/en/uah/obig-coin",
+    "sources": [
+      "https://bank.gov.ua/en/uah",
+      "https://bank.gov.ua/en/uah/obig-banknote",
+      "https://bank.gov.ua/en/uah/obig-coin"
+    ],
+    "note": "Downloaded official National Bank of Ukraine front/back images for current fourth-generation banknotes and legal-tender coins. Images were normalized to matching front/back dimensions per denomination."
+  },
+  "morocco": {
+    "status": "complete",
+    "collected_at": "2026-07-09T14:01:44.012025+00:00",
+    "coins": 6,
+    "banknotes": 4,
+    "banknote_source": "https://www.bkam.ma/en/Banknotes-and-coins/Cash-lifecycle/Banknotes-in-circulation/2023-series",
+    "coin_source": "https://www.bkam.ma/en/Banknotes-and-coins/Cash-lifecycle/Coins-in-circulation/2023-series",
+    "sources": [
+      "https://www.bkam.ma/en/Banknotes-and-coins/Cash-lifecycle/Banknotes-in-circulation/2023-series",
+      "https://www.bkam.ma/en/Banknotes-and-coins/Cash-lifecycle/Coins-in-circulation/2023-series"
+    ],
+    "note": "Downloaded Bank Al-Maghrib 2023-series banknote front/back reference images. Downloaded 2023-series coin horizontal composite images and split them vertically into front/back originals before normalization."
+  },
+  "qatar": {
+    "status": "partial",
+    "collected_at": "2026-07-13T14:40:59.911649+00:00",
+    "coins": 0,
+    "banknotes": 7,
+    "banknote_source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "sources": [
+      "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx"
+    ],
+    "note": "Downloaded official Qatar Central Bank front/back PNGs for all seven banknote denominations shown on the current-banknotes page. No coins were added in this pass under the partial-coverage inclusion policy."
+  },
+  "brunei": {
+    "status": "partial",
+    "collected_at": "2026-07-13T15:09:42.659083+00:00",
+    "coins": 0,
+    "banknotes": 5,
+    "banknote_source": "https://www.bdcb.gov.bn/currency/circulation",
+    "sources": [
+      "https://www.bdcb.gov.bn/currency/circulation",
+      "https://www.bdcb.gov.bn/publications/details?id=01k5sxez34r0m85rcdmrg63502"
+    ],
+    "note": "Downloaded clean official BDCB front/back PNGs for the five 2025-family banknotes now listed on the Currency in Circulation page. The annotated security-feature images and SPECIMEN-marked latest coin image were not used. No coins were added under the partial-coverage inclusion policy."
+  }
+}
